@@ -2,6 +2,7 @@
 
 A browser-based 3D multiplayer boat battle game built with Next.js, React Three Fiber, and custom GLSL shaders.
 
+
 ## Overview
 
 Hydroverse drops players into a cel-shaded ocean arena to compete in boat combat. The game features hand-crafted water and sky shaders, AI opponents, projectile physics, and a lobby with NPC boats before jumping into a match.
@@ -32,6 +33,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 npm run build   # Production build
 npm run start   # Serve production build
 ```
+
+Repo Sentinel Ai Report
+<img width="776" height="472" alt="image" src="https://github.com/user-attachments/assets/f4f6b366-310f-460e-a7ee-e412a616b16b" />
 
 ## Project Structure
 
